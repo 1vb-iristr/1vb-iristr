@@ -2,7 +2,7 @@
 
 I'm Iris Tran, also known by my alias 1vb. I am currently a highschool student living in Ho Chi Minh City.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1vb-iristr)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1vb-iristr&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Get to know more about me 🤔
 
