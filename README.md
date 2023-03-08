@@ -1,5 +1,3 @@
-<img width="100px" src="https://avatars.githubusercontent.com/u/84076556?v=4" align="center" alt="My profile picture!" />
-
 ## Hey, welcome to my profile! 👋
 
 I'm Iris Tran, also known by my alias 1vb. I am currently a highschool student living in Ho Chi Minh City.
@@ -19,4 +17,4 @@ Here are a few things about me:
 * Always curious, always exploring new things
 
 Glad to see you around!
-
+- Iris
