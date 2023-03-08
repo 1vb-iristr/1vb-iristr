@@ -8,6 +8,7 @@ I'm Iris Tran, also known by my alias 1vb. I am currently a highschool student l
 
 Here are a few things about me:
 * 15 years old, birthday on 13th of October 🎉
+* Native Vietnamese, fluent in English
 * Transgender girl ♀️🏳️‍⚧️, AMAB (closeted for the time being)
 * I'm a huge sucker for anything computer science related
 * Probably a nerd as well
@@ -17,4 +18,4 @@ Here are a few things about me:
 * Always curious, always exploring new things
 
 Glad to see you around!
-- Iris
+\- Iris
