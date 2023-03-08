@@ -25,5 +25,4 @@ There are a few ways you can contact me:
 * Discord: [1vb#7638](https://discord.com/users/909187371294134292)
 * Twitter: [@1vbbbbb_uwu](https://twitter.com/1vbbbbb_uwu)
 
-Glad to see you around!  
-\- Iris
+###### Glad to see you around! \- Iris
