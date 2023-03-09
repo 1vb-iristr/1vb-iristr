@@ -26,3 +26,5 @@ There are a few ways you can contact me:
 * Twitter: [@1vbbbbb_uwu](https://twitter.com/1vbbbbb_uwu)
 
 #### Glad to see you around! \- Iris
+
+P.S. This is my [profile picture link!](https://www.deviantart.com/koitshi/art/Penny-Pokemon-Scarlet-Violet-925182377)
