@@ -1,4 +1,4 @@
-## Hey, welcome to my profile! 👋
+# Hey, welcome to my profile! 👋
 
 I'm Iris Tran, also known by my alias 1vb. I am currently a highschool student living in Ho Chi Minh City.
 
@@ -25,6 +25,6 @@ There are a few ways you can contact me:
 * Discord: [1vb#7638](https://discord.com/users/909187371294134292)
 * Twitter: [@1vbbbbb_uwu](https://twitter.com/1vbbbbb_uwu)
 
-#### Glad to see you around! \- Iris
+### Glad to see you around! \- Iris
 
 ###### P.S. This is my [profile picture link!](https://www.deviantart.com/koitshi/art/Penny-Pokemon-Scarlet-Violet-925182377)
